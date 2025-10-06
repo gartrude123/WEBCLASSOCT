@@ -1,0 +1,21 @@
+* {
+    font-family: verdan, Verdana, Geneva, Tahoma, sans-serif
+}
+
+body {
+    background-color: blueviolet;
+    width: 70%;
+
+}
+
+.tex_section {
+    float: left;
+    margin-left: 15px;
+}
+
+.image-section {
+    width: 25%;
+    float: left;
+    margin-left: 5px;
+    height: 100%;
+}
