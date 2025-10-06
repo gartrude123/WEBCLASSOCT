@@ -13,9 +13,9 @@ body {
     margin-left: 15px;
 }
 
-.image-section {
-    width: 25%;
-    float: left;
-    margin-left: 5px;
+.main-image {
+    width: 40%;
+    float: right;
+    margin-right: 5px;
     height: 100%;
 }
