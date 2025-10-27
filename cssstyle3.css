@@ -1,0 +1,36 @@
+.section1 {
+    display: flex;
+    background-color: rgb(255, 0, 234);
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    width: 60%;
+    gap: 10px;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+
+.section2 {
+    background-color: blue;
+    padding: 15px;
+    width: 60%;
+    color: rgb(255, 0, 64);
+    display: flex;
+    justify-content: space-evenly;
+    gap: 15px;
+    flex-direction: row;
+
+
+
+
+
+}
+
+.main {
+    background-color: blueviolet;
+    padding: auto;
+    align-items: center;
+
+}
+
+@media screen and (max-width:600px) {}
